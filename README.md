@@ -20,7 +20,7 @@ Program ini adalah program yang mengimplementasikan algoritma *divide and conque
 <br>
 
 ## Cara Menggunakan Program <a name="use"></a>
-1. Jalankan ConvexHull.py melalui code editor/Jupyter Notebook/ Google Colab, atau bisa juga menggunaka terminal dengan command berikut:
+1. Jalankan ConvexHull.ipnyb melalui Jupyter Notebook/ Google Colab, atau bisa juga menggunakan terminal dengan command berikut:
 ```sh
 $ python ConvexHull.py
 ```
